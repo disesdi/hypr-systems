@@ -1,0 +1,65 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  
+  //lastit
+  background-size: 100% 100%;
+  background-color: #ffffff;
+  padding:50px;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#000000;
+  font-weight:400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:#000000;
+  margin:0 0 20px;
+}
+
+h2 {
+  color:#000000;
+}
+
+h3, h4, h5, h6 {
+  color:#000000;
+}
+
+// ff6ec7 pink <3
+// 363957 blue
+
+a {
+  color: #363957;
+  font-weight: bold;
+  text-decoration:none;
+}
+
+// 9d7bb3 mauve <3
+
+a:hover, a:focus {
+  color: #9d7bb3;
+}
+
+// ff6ec7 pink <3
+// 363957 blue
+
+a small {
+  font-size:11px;
+  color:#363957;
+  margin-top:-0.3em;
+  display:block;
+}
+
+a:hover small {
+  color:#9d7bb3;
+}
+
+// 9A99AA gray
+// prev strong == 000000
+
+strong {
+  color:#9A99AA;
+  font-weight:700;
+}
