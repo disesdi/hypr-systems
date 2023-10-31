@@ -13,7 +13,7 @@
 
 -------
 
-**AI/ML architect & security researcher.**
+**AI/ML architect & security researcher. ᏥᏣᎳᎩ.**
 
   
 **Data Systems Architect at <a href="https://www.bobihealth.com/" target="_blank" rel="noopener noreferrer">BobiHealth.com >></a>**
@@ -23,8 +23,6 @@
 
 
 **Book time with me <a href="https://calendly.com/disesdi" target="_blank" rel="noopener noreferrer">here >></a>**
-
-**ᏥᏣᎳᎩ.**
 
 -------
 
