@@ -1,6 +1,6 @@
 -------
 
-**home** | [about](https://mlops.archi/about.html) 
+**home** | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> | [about](https://mlops.archi/about.html) 
 
 -------
 
