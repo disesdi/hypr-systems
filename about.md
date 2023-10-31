@@ -24,7 +24,7 @@
 
 **Book time with me <a href="https://calendly.com/disesdi" target="_blank" rel="noopener noreferrer">here >></a>**
 
-**ᏥᏣᎳᎩ. 🕷**
+**ᏥᏣᎳᎩ.**
 
 -------
 
