@@ -1,6 +1,6 @@
 -------
 
-**home** | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> | [about](https://mlops.archi/about.html) 
+**home** \| [about](https://mlops.archi/about.html) 
 
 -------
 
@@ -33,6 +33,6 @@ A repo for some of the most influential papers, books, & other media on machine 
 
 -------
 
-**home** | [about](https://mlops.archi/about.html) 
+**home** \| [about](https://mlops.archi/about.html) 
 
 
