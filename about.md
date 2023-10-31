@@ -1,4 +1,4 @@
-[home](https://mlops.archi/) | **about** 
+[home](https://mlops.archi/) | | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> | **about** 
 
 -------
 
