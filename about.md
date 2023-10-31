@@ -5,25 +5,24 @@
 ### About me
 
 -------
+![disesdi_susanna](disesdi_susanna.png)
 
-<div align="center"><img width="342" alt="headshot_even_smaller" src="https://github.com/disesdi/mlops-archi/assets/110150470/a3bfe730-4bb5-41c0-9307-e1c9684beadf"></div>
+# Hello. My name is ᏗᏎᏍᏗ Disesdi Susanna.
 
-# <div align="center">Hello. My name is ᏗᏎᏍᏗ Disesdi Susanna.</div>
-
-### *<div align="center">(Any pronouns)</div>*
+### (Any pronouns)
 
 -------
 
-**<div align="center">AI/ML architect & security researcher.</div>**
+**AI/ML architect & security researcher.**
 
   
-**<div align="center">Data Systems Architect at <a href="https://www.bobihealth.com/" target="_blank" rel="noopener noreferrer">BobiHealth.com >></a></div>**
+**Data Systems Architect at <a href="https://www.bobihealth.com/" target="_blank" rel="noopener noreferrer">BobiHealth.com >></a>**
 
 
-**<div align="center">Hear me talk about AI security on the <a href="https://mlsecops.com/podcast/cox-securing-aiml-systems-in-the-age-of-information-warfare" target="_blank" rel="noopener noreferrer">MLSecOps Podcast >></a></div>**
+**Hear me talk about AI security on the <a href="https://mlsecops.com/podcast/cox-securing-aiml-systems-in-the-age-of-information-warfare" target="_blank" rel="noopener noreferrer">MLSecOps Podcast >></a>>**
 
 
-**<div align="center">Book time with me <a href="https://calendly.com/disesdi" target="_blank" rel="noopener noreferrer">here >></a></div>**
+**Book time with me <a href="https://calendly.com/disesdi" target="_blank" rel="noopener noreferrer">here >></a>**
 
 -------
 
