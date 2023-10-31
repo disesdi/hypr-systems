@@ -63,6 +63,6 @@ Public Key <a href="https://disesdi.github.io/key.html" target="_blank" rel="noo
 
 -------
 
-[home](https://mlops.archi/) | **about** 
+[home](https://mlops.archi/) \| **about** 
 
 
