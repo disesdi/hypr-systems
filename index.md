@@ -27,12 +27,6 @@ A repo for some of the most influential papers, books, & other media on machine 
 
 -------
 
-### <a href="https://github.com/indigenousEngineering" target="_blank" rel="noopener noreferrer">Indigenous.Engineering >> </a>
-
-Data science, NLProc, and AIML for the culture <a href="https://github.com/indigenousEngineering" target="_blank" rel="noopener noreferrer"> >> </a>
-
--------
-
 **home** | [about](https://mlops.archi/about.html) 
 
 <div align="center">🕷</div>
