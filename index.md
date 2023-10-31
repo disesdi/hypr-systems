@@ -1,6 +1,6 @@
 -------
 
-**home** | [about](https://mlops.archi/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> | [contact/social](https://mlops.archi/contact.html) 
+**home** | [about](https://mlops.archi/about.html) 
 
 -------
 
@@ -33,6 +33,6 @@ Data science, NLProc, and AIML for the culture <a href="https://github.com/indig
 
 -------
 
-**home** | [about](https://mlops.archi/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> | [contact/social](https://mlops.archi/contact.html) 
+**home** | [about](https://mlops.archi/about.html) 
 
 <div align="center">🕷</div>
