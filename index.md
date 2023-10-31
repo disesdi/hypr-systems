@@ -4,7 +4,7 @@
 
 -------
 
-### mlsecops resources
+### MLSecOps resources
 
 -------
 
@@ -20,7 +20,7 @@ A repo for some of the most influential papers, books, & other media on machine 
 
 -------
 
-### writing
+### Writing
 
 -------
 
