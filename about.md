@@ -1,4 +1,4 @@
-[home](https://disesdi.github.io/) | **about** | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
+[home](https://disesdi.github.io/) | **about** 
 
 -------
 
@@ -10,20 +10,20 @@
 
 # <div align="center">Hello. My name is ᏗᏎᏍᏗ Disesdi Susanna.</div>
 
-*<div align="center">(Any pronouns)</div>*
+### *<div align="center">(Any pronouns)</div>*
 
 -------
 
-AI/ML architect & security researcher.
+**<div align="center">AI/ML architect & security researcher.</div>**
 
   
-Data Systems Architect at <a href="https://www.bobihealth.com/" target="_blank" rel="noopener noreferrer">BobiHealth.com >></a>
+**<div align="center">Data Systems Architect at <a href="https://www.bobihealth.com/" target="_blank" rel="noopener noreferrer">BobiHealth.com >></a></div>**
 
 
-Contact & Socials [here >>](about.md#contact--socials)
+**<div align="center">Hear me talk about AI security on the <a href="https://mlsecops.com/podcast/cox-securing-aiml-systems-in-the-age-of-information-warfare" target="_blank" rel="noopener noreferrer">MLSecOps Podcast >></a></div>**
 
 
-Book time with me <a href="https://calendly.com/disesdi" target="_blank" rel="noopener noreferrer">here >></a> 
+**<div align="center">Book time with me <a href="https://calendly.com/disesdi" target="_blank" rel="noopener noreferrer">here >></a></div>**
 
 -------
 
@@ -62,6 +62,7 @@ Public Key <a href="https://disesdi.github.io/key.html" target="_blank" rel="noo
 
 -------
 
-[home](https://disesdi.github.io/) | **about** | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
+[home](https://disesdi.github.io/) | **about** 
+
 
 <div align="center">🕷</div>
