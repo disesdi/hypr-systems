@@ -1,4 +1,4 @@
-[home](https://mlops.archi/) **about** 
+[home](https://mlops.archi/) \| **about** 
 
 -------
 
