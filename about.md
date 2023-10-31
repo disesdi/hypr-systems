@@ -13,9 +13,6 @@
 
 -------
 
-**AI/ML architect & security researcher.**
-
-  
 **Data Systems Architect at <a href="https://www.bobihealth.com/" target="_blank" rel="noopener noreferrer">BobiHealth.com >></a>**
 
 
