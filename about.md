@@ -1,4 +1,4 @@
-[home](https://disesdi.github.io/) | **about** 
+[home](https://mlops.archi/) | **about** 
 
 -------
 
@@ -63,7 +63,7 @@ Public Key <a href="https://disesdi.github.io/key.html" target="_blank" rel="noo
 
 -------
 
-[home](https://disesdi.github.io/) | **about** 
+[home](https://mlops.archi/) | **about** 
 
 
 🕷
