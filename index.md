@@ -4,7 +4,7 @@
 
 -------
 
-### Posts \| [All >>](https://mlops.archi/all.html)
+### Posts \| <a href="https://mlops.archi/all.html" target="_blank" rel="noopener noreferrer">All </a>
 
 -------
 
