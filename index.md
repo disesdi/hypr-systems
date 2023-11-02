@@ -4,7 +4,7 @@
 
 -------
 
-### Posts \| <a href="https://mlops.archi/all.html" target="_blank" rel="noopener noreferrer">All >></a>
+### New \| <a href="https://mlops.archi/all.html" target="_blank" rel="noopener noreferrer">Old >></a>
 
 -------
 
