@@ -4,7 +4,7 @@
 
 -------
 
-### All posts by date
+### Posts by date
 
 -------
 
