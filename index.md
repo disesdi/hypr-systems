@@ -4,7 +4,7 @@
 
 -------
 
-### Posts
+### Posts \| [All >>](https://mlops.archi/all.html)
 
 -------
 
