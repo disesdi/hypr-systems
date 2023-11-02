@@ -4,7 +4,7 @@
 
 -------
 
-# #NAHM: Mary Golda Ross, an Original #NativeInStem
+# Mary Golda Ross, an Original #NativeInSTEM
 
 ### By <a href="https://mlops.archi/about.html" target="_blank" rel="noopener noreferrer">Disesdi Susanna</a> | 01 November 2023
 
