@@ -4,6 +4,17 @@
 
 -------
 
+### Posts
+
+-------
+
+### <a href="https://mlops.archi/posts/mary_golda_ross.html" target="_blank" rel="noopener noreferrer">Mary Golda Ross, an Original Native In STEM >> </a>
+
+She helped found the Lockheed Skunkworks, co-authored a NASA Planetary Flight Handbook, and was a founding member of the Society of Women Engineers. She was also Cherokee.
+<a href="https://mlops.archi/posts/mary_golda_ross.html" target="_blank" rel="noopener noreferrer"> >> </a>
+
+-------
+
 ### MLSecOps Resources
 
 -------
