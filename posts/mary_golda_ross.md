@@ -55,7 +55,7 @@ Happy Native American Heritage Month!
 
 4. “Space flight handbooks. Volume 3 - Planetary flight handbook. Part 9 - Direct and Venus swingby trajectories to Mercury.” n.d. NASA Technical Reports Server. Accessed November 1, 2023. https://ntrs.nasa.gov/citations/19700019224.
 
-5. Briggs, Kara. 2008. “Cherokee rocket scientist leaves heavenly gift | Culture | cherokeephoenix.org.” Cherokee Phoenix. https://www.cherokeephoenix.org/culture/cherokee-rocket-scientist-leaves-heavenly-gift/article_e419c6ec-af3c-54cd-a8a9-6ed273d0d849.html.
+5. Briggs, Kara. 2008. “Cherokee rocket scientist leaves heavenly gift." cherokeephoenix.org.” Cherokee Phoenix. https://www.cherokeephoenix.org/culture/cherokee-rocket-scientist-leaves-heavenly-gift/article_e419c6ec-af3c-54cd-a8a9-6ed273d0d849.html.
 
 -------
 
