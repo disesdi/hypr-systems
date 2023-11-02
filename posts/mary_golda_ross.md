@@ -21,7 +21,7 @@ Did you know that the only female founding member of Lockheed's elite Skunkworks
 Mary Golda Ross was the first female Native American engineer, the first female engineer at Lockheed, a founding member of the Society of Women Engineers, and many more firsts. Her work helped launch the US into the space age. 
 
 She is [recognized by NASA as a “hidden figure”](https://www.nasa.gov/image-article/mary-ross-hidden-figure/)<sup>[2]</sup> in aerospace and mathematics for her work ranging from [saving the design for then-cutting edge P-38 Lightning fighter plane](https://www.nationalww2museum.org/war/articles/mary-golda-ross-and-skunk-works),<sup>[3]</sup>
- to helping author [the NASA Planetary Flight Handbook Vol. III](https://ntrs.nasa.gov/citations/19700019224).<sup>[4]</sup>
+ to helping author [a NASA Planetary Flight Handbook](https://ntrs.nasa.gov/citations/19700019224).<sup>[4]</sup>
 
 She [credited her Native culture](https://airandspace.si.edu/stories/editorial/mary-g-ross-aerospace-engineer) as a foundation for her work on some of the most important top-secret technologies of the Cold War. Her life stands as a powerful testament to the fact that Native women belong in STEM.
 
