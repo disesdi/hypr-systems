@@ -36,3 +36,27 @@ The Cherokee Phoenix [covered her generous act](https://www.cherokeephoenix.org/
 Happy Native American Heritage Month!
 
 #NativeAmericanHeritageMonth #NativesInSTEM #NativesInTech #NAHM
+
+-------
+
+
+### [Contact me >>](https://mlops.archi/about.html)
+
+
+-------
+
+## References
+
+1. “Mary Golda Ross — Beyond Curie—a design project celebrating women in STEM.” n.d. Beyond Curie. Accessed November 1, 2023. https://www.beyondcurie.com/mary-golda-ross.
+
+2. “Mary Ross: A Hidden Figure.” 2018. NASA. https://www.nasa.gov/image-article/mary-ross-hidden-figure/.
+
+3. “Mary Golda Ross and the Skunk Works.” 2021. The National WWII Museum. https://www.nationalww2museum.org/war/articles/mary-golda-ross-and-skunk-works.
+
+4. “Space flight handbooks. Volume 3 - Planetary flight handbook. Part 9 - Direct and Venus swingby trajectories to Mercury.” n.d. NASA Technical Reports Server. Accessed November 1, 2023. https://ntrs.nasa.gov/citations/19700019224.
+
+5. Briggs, Kara. 2008. “Cherokee rocket scientist leaves heavenly gift | Culture | cherokeephoenix.org.” Cherokee Phoenix. https://www.cherokeephoenix.org/culture/cherokee-rocket-scientist-leaves-heavenly-gift/article_e419c6ec-af3c-54cd-a8a9-6ed273d0d849.html.
+
+-------
+
+[home](https://mlops.archi/)  \| [about](https://mlops.archi/about.html) 
