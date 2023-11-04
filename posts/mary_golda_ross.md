@@ -1,6 +1,6 @@
 -------
 
-[home](https://mlops.archi/)  \| [about](https://mlops.archi/about.html) 
+[home](https://mlops.archi/)  \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a> \| [about](https://mlops.archi/about.html)
 
 -------
 
@@ -59,4 +59,4 @@ Happy Native American Heritage Month!
 
 -------
 
-[home](https://mlops.archi/)  \| [about](https://mlops.archi/about.html) 
+[home](https://mlops.archi/)  \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a> \| [about](https://mlops.archi/about.html)
