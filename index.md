@@ -28,6 +28,15 @@ An OODA Loop-based game theoretic model of information warfare in AI/ML systems,
 A repo for some of the most influential papers, books, & other media on machine learning operations (MLOps), adversarial machine learning, AIML policy and compliance, ++ 
 <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer"> >> </a>
 
+-------
+
+### Projects
+
+-------
+
+### <a href="https://github.com/indigenousEngineering" target="_blank" rel="noopener noreferrer">Indigenous.Engineering >> </a>
+
+Data science, NLProc, and AIML for the culture <a href="https://github.com/indigenousEngineering" target="_blank" rel="noopener noreferrer"> >> </a>
 
 
 -------
