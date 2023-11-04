@@ -40,9 +40,9 @@ AI/ML, security ++ <a href="https://anglesofattack.io/" target="_blank" rel="noo
 
 -------
 
-### <a href="https://github.com/indigenousEngineering" target="_blank" rel="noopener noreferrer">Indigenous.Engineering >> </a>
+### <a href="https://indigenous.engineering" target="_blank" rel="noopener noreferrer">Indigenous.Engineering >> </a>
 
-Data science, NLProc, and AI/ML for the culture <a href="https://github.com/indigenousEngineering" target="_blank" rel="noopener noreferrer"> >> </a>
+Data science, NLProc, and AI/ML for the culture <a href="https://indigenous.engineering" target="_blank" rel="noopener noreferrer"> >> </a>
 
 -------
 
