@@ -1,6 +1,6 @@
 -------
 
-**home** \| [about](https://mlops.archi/about.html) 
+**home**  \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a> \| [about](https://mlops.archi/about.html)
 
 -------
 
@@ -46,6 +46,6 @@ Data science, NLProc, and AI/ML for the culture <a href="https://indigenous.engi
 
 -------
 
-**home** \| [about](https://mlops.archi/about.html) 
+**home**  \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a> \| [about](https://mlops.archi/about.html)
 
 
