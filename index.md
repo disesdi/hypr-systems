@@ -36,7 +36,7 @@ A repo for some of the most influential papers, books, & other media on machine 
 
 ### <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">AnglesOfAttack.io >> </a>
 
-AI/ML, security ++ <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer"> >> </a>
+AI/ML, security, & technical resources for aerospace ++ <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer"> >> </a>
 
 -------
 
