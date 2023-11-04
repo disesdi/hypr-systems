@@ -1,4 +1,4 @@
-[home](https://mlops.archi/) \| **about** 
+[home](https://mlops.archi/)  \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a> \| **about**
 
 -------
 
@@ -56,6 +56,6 @@ Telegram: <a href="https://t.me/disesdi" target="_blank" rel="noopener noreferre
 
 -------
 
-[home](https://mlops.archi/) \| **about** 
+[home](https://mlops.archi/)  \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a> \| **about**
 
 
