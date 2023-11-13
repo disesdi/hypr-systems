@@ -4,10 +4,8 @@
 
 -------
 
-<a href="https://youtu.be/j1qd2shDVro" target="_blank" rel="noopener noreferrer">Hello World! AI Engineer Talks about REAL issues in AI >> </a>
-
-
 {% include youtube.html id="j1qd2shDVro" %}
+
 
 Osiyo/Hello! My name is Susanna, aka Disesdi. I'm an AI engineer, and I'd like to talk about some of the *real* issues in my profession today--no scifi, no hype. 
 
