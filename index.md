@@ -4,6 +4,10 @@
 
 -------
 
+{% include youtube.html id="j1qd2shDVro" %}
+
+-------
+
 ### Posts \| <a href="https://mlops.archi/all.html" target="_blank" rel="noopener noreferrer">All >></a>
 
 -------
