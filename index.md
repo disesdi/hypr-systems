@@ -4,8 +4,6 @@
 
 -------
 
-### Hello World!
-
 {% include youtube.html id="j1qd2shDVro" %}
 
 -------
