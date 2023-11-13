@@ -137,7 +137,7 @@ But they should be.
 
 2. Stokel, Chris. 2023. “AI chatbots could hit a ceiling after 2026 as training data runs dry.” New Scientist. https://www.newscientist.com/article/2353751-ai-chatbots-could-hit-a-ceiling-after-2026-as-training-data-runs-dry/.
 
-3. Cox, Disesdi Susanna. 2023. “Did An AI CEO Just Tweet About Stealing Data?” Angles Of Attack | MLSecOps for industry, aerospace & defense. https://anglesofattack.io/4/data_hacking.html.
+3. Cox, Disesdi Susanna. 2023. “Did An AI CEO Just Tweet About Stealing Data?” Angles Of Attack. https://anglesofattack.io/4/data_hacking.html.
 
 4. “Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning.” 2021. Google. https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf.
 
