@@ -10,9 +10,11 @@
 
 -------
 
-## Introduction: Defining & Mitigating the ‘AI Hype Cycle’
+## Introduction: Defining & Mitigating the AI Hype Cycle
 
-*The public AI conversation has gone off the rails*. That is the crux of conversations I am hearing in many AI ethics & MLOps spaces.
+*The public AI conversation has gone off the rails*. 
+
+That is the crux of conversations I am hearing in many AI ethics & MLOps spaces.
 
 To a lot of AI/ML practitioners, the last year or so of AI discourse has been frustrating, bewildering, and at times, *exhausting*. 
 
