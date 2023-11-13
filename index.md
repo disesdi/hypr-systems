@@ -4,7 +4,7 @@
 
 -------
 
-### <a href="https://youtu.be/j1qd2shDVro" target="_blank" rel="noopener noreferrer">Hello World! AI Engineer Talks about REAL issues in AI >> </a>
+### Hello World!
 
 {% include youtube.html id="j1qd2shDVro" %}
 
