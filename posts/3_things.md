@@ -125,7 +125,7 @@ But they should be.
 -------
 
 
-### [Contact me >>](https://mlops.archi/about.html)
+### [Contact me >>](https://hypr.systems/about.html)
 
 
 -------
