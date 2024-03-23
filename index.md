@@ -1,6 +1,6 @@
 -------
 
-**home**  \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a> \| [about](https://mlops.archi/about.html)
+**home**  \| [about](https://hypr.systems/about.html) \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a>
 
 -------
 
@@ -8,20 +8,20 @@
 
 -------
 
-### Posts \| <a href="https://mlops.archi/all.html" target="_blank" rel="noopener noreferrer">All >></a>
+### Posts \| <a href="all.html" target="_blank" rel="noopener noreferrer">All >></a>
 
 -------
 
-### <a href="https://mlops.archi/posts/3_things.html" target="_blank" rel="noopener noreferrer">Cutting Through the Hype: Three Things I Wish More People Understood About Real (Production) AI >> </a>
+### <a href="https://hypr.systems/posts/3_things.html" target="_blank" rel="noopener noreferrer">Cutting Through the Hype: Three Things I Wish More People Understood About Real (Production) AI >> </a>
 
-Countering the AI hype cycle with real issues AI engineers face on the cutting edge of production <a href="https://mlops.archi/posts/3_things.html" target="_blank" rel="noopener noreferrer"> >> </a>
+Countering the AI hype cycle with real issues AI engineers face on the cutting edge of production <a href="https://hypr.systems/posts/3_things.html" target="_blank" rel="noopener noreferrer"> >> </a>
 
 -------
 
-### <a href="https://mlops.archi/posts/mary_golda_ross.html" target="_blank" rel="noopener noreferrer">Mary Golda Ross, an Original Native In STEM >> </a>
+### <a href="https://hypr.systems/posts/mary_golda_ross.html" target="_blank" rel="noopener noreferrer">Mary Golda Ross, an Original Native In STEM >> </a>
 
 She helped found the Lockheed Skunkworks, co-authored a NASA Planetary Flight Handbook, and was a founding member of the Society of Women Engineers. She was also Cherokee.
-<a href="https://mlops.archi/posts/mary_golda_ross.html" target="_blank" rel="noopener noreferrer"> >> </a>
+<a href="https://hypr.systems/posts/mary_golda_ross.html" target="_blank" rel="noopener noreferrer"> >> </a>
 
 -------
 
@@ -56,6 +56,6 @@ Data science, NLProc, and AI/ML for the culture <a href="https://indigenous.engi
 
 -------
 
-**home**  \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a> \| [about](https://mlops.archi/about.html)
+**home**  \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a> \| [about](https://hypr.systems/about.html)
 
 
