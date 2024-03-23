@@ -1,6 +1,6 @@
 -------
 
-[home](https://mlops.archi/)  \| [about](https://hypr.systems/about.html) \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a>
+[home](https://hypr.systems/)  \| [about](https://hypr.systems/about.html) \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a>
 
 -------
 
