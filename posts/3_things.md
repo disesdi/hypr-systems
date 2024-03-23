@@ -148,3 +148,7 @@ But they should be.
 7. Cox, Disesdi Susanna. n.d. “MLSecOps Reference Repository.” GitHub. Accessed October, 2023. https://github.com/disesdi/mlsecops_references.
 
 8. Hsu, Tiffany. 2023. “When Hackers Descended to Test A.I., They Found Flaws Aplenty.” The New York Times. https://www.nytimes.com/2023/08/16/technology/ai-defcon-hackers.html.
+
+-------
+
+[home](https://hypr.systems/)  \| [about](https://hypr.systems/about.html) \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a>
