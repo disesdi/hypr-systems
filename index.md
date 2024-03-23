@@ -56,6 +56,6 @@ Data science, NLProc, and AI/ML for the culture <a href="https://indigenous.engi
 
 -------
 
-**home**  \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a> \| [about](https://hypr.systems/about.html)
+**home**  \| [about](https://hypr.systems/about.html) \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a>
 
 
