@@ -21,6 +21,6 @@ She helped found the Lockheed Skunkworks, co-authored a NASA Planetary Flight Ha
 
 -------
 
-[home](https://mlops.archi/)  \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a> \| [about](https://mlops.archi/about.html) 
+[home](https://hypr.systems/)  \| [about](https://hypr.systems/about.html) \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a>
 
 -------
