@@ -6,7 +6,7 @@
 
 # Mary Golda Ross, an Original Native In STEM
 
-By <a href="https://mlops.archi/about.html" target="_blank" rel="noopener noreferrer">Disesdi Susanna</a> \| 01 November 2023
+By <a href="https://hypr.systems/about.html" target="_blank" rel="noopener noreferrer">Disesdi Susanna</a> \| 01 November 2023
 
 -------
 
