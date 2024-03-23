@@ -28,7 +28,7 @@
 
 -------
 
-Email: <a href="mailto:disesdi@mlops.archi" target="_blank" rel="noopener noreferrer">disesdi@mlops.archi >></a>
+Email: <a href="mailto:disesdi@pm.me" target="_blank" rel="noopener noreferrer">disesdi@pm.me >></a>
 
 -------
 
