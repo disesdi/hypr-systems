@@ -1,6 +1,6 @@
 -------
 
-[home](https://mlops.archi/)  \| [about](https://hypr.systems/about.html) \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a>
+[home](https://hypr.systems/)  \| [about](https://hypr.systems/about.html) \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a>
 
 -------
 
@@ -40,7 +40,7 @@ Happy Native American Heritage Month!
 -------
 
 
-### [Contact me >>](https://mlops.archi/about.html)
+### [Contact me >>](https://hypr.systems/about.html)
 
 
 -------
@@ -59,4 +59,4 @@ Happy Native American Heritage Month!
 
 -------
 
-[home](https://mlops.archi/)  \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a> \| [about](https://mlops.archi/about.html)
+[home](https://hypr.systems/)  \| [about](https://hypr.systems/about.html) \| <a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">angles of attack</a>
