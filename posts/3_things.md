@@ -6,7 +6,7 @@
 
 # Cutting Through the Hype: Three Things I Wish More People Understood About Real (Production) AI
 
-### By <a href="https://mlops.archi/about.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | 13 November 2023
+### By <a href="https://hypr.systems/about.html" target="_blank" rel="noopener noreferrer">Disesdi Susanna</a> | 13 November 2023
 
 -------
 
